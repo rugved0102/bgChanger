@@ -7,8 +7,7 @@ A simple React + Vite app to change the background color of the screen by clicki
 🔗 [Click here to view the live app](https://rugved0102.github.io/bgChanger)
 
 ## 📸 Preview
-
-![App Preview](https://github.com/rugved0102/bgChanger/assets/your-image-id-if-any)
+![Screenshot 2025-06-03 145037](https://github.com/user-attachments/assets/0a4f9c80-f0c1-4598-90c5-87da02972161)
 
 ## 🛠️ Features
 
@@ -61,4 +60,4 @@ bgChanger/
 ```
 
 ## 🧑‍💻 Author
-[Rugved Junghare](https://rugved0102)
+[Rugved Junghare](https://github.com/rugved0102)
